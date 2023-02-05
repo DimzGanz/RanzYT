@@ -23,8 +23,8 @@ contextInfo: { externalAdReply :{
 }
 
 
-handler.help = ['runtime1']
-handler.command = ['runtime1', 'rt1']
+handler.help = ['runtime']
+handler.command = ['runtime', 'rt']
 export default handler
 
 function clockString(ms) {
