@@ -343,7 +343,6 @@ const sections = [
         {title: `🎧 ${pmenus} Audio Anime`, rowId: ".? audioanime", description: "Kamu Wibu ya Bang"},             
         {title: `🎧 ${pmenus} Audio`, rowId: ".? audio", description: "Ubah Audio dengan Filter"},
         {title: `🎧 ${pmenus} Sound Menu`, rowId: ".soundmenu", description: "Kumpulan 120 Sound"},
-        {title: `🎧 ${pmenus} Sound Kane Menu`, rowId: ".? sound2004", description: "Kumpulan 24 Sound"},
         {title: `🏢 ${pmenus} Group`, rowId: ".? group", description: "Only Groups"},
         {title: `👑 ${pmenus} Admin`, rowId: ".? admin", description: "Only Admin Group"},
         {title: `🗂️ ${pmenus} Database`, rowId: ".? database", description: "Simpan sesuatu diBOT"},
