@@ -11,10 +11,10 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
+• Owner sangat amat teramat ramah🙏🏻
+• Owner berhak blokir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Minta save? boleh
 • No Telp`
 
 //------------ BIO
